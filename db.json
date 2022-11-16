@@ -136,7 +136,8 @@
         "id":0,
         "pos": 1,
         "player": "Virat Kohli",
-        "match": 6
+        "match": 6,
+        "inns": 6
     }
   ]
 }
