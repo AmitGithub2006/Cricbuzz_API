@@ -19,5 +19,8 @@
   "homepage": "https://github.com/AmitGithub2006/Cricbuzz_API#readme",
   "dependencies": {
     "json-server": "^0.17.1"
+  },
+  "engines": {
+    "node": "8.11.0"
   }
 }
