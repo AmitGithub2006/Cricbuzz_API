@@ -130,5 +130,13 @@
         "details": "https://www.t20worldcup.com/teams/13/sri-lanka/players/3082",
         "country": "SL"
     }
+  ],
+  "table": [
+    {
+        "id":0,
+        "pos": 1,
+        "player": "Virat Kohli",
+        "match": 6
+    }
   ]
 }
