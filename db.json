@@ -1,5 +1,5 @@
 {
-  "users": [
+  "venue": [
     {
       "id": 0,
       "imgUrl": "https://resources.pulse.icc-cricket.com/photo-resources/2019/10/17/79de518c-27b5-4b26-be4e-94977cecc511/GettyImages-902860818.jpg?width=288&height=288",
@@ -90,6 +90,45 @@
       ],
       "about": "Steeped in sporting history, the SCG has been providing a wealth of entertainment for over 150 years. Almost every famous Australian cricketer has competed within the historic grounds, which is considered among the country's architectural treasures.",
       "link": "https://www.t20worldcup.com/venues/48/scg/venue"
+    },
+    {
+      "id": 7,
+      "imgUrl": "https://resources.pulse.icc-cricket.com/photo-resources/2019/10/17/4f233646-cc76-4cf1-b753-4cefe146af87/GettyImages-107136786.jpg?width=288&height=288",
+      "address": [
+        {
+          "addressId": 0,
+          "city": "Brisbane/Meanjin",
+          "venue": "The Gabba"
+        }
+      ],
+      "about": "The Gabba has been the home of cricket in Queensland since 1896 and is well known throughout the cricketing world for hosting all forms of international cricket, as well as Sheffield Shield matches.",
+      "link": "https://www.t20worldcup.com/venues/394/the-gabba/venue"
+    }
+  ],
+  "stats": [
+    {
+        "id": 0,
+        "highScore": 109,
+        "name": "Rilee Rossouw",
+        "imgUrl": "https://resources.pulse.icc-cricket.com/players/33992/284/239.png",
+        "details": "https://www.t20worldcup.com/teams/19/south-africa/players/239",
+        "country": "RSA"
+    },
+    {
+        "id": 1,
+        "highScore": 296,
+        "name": "Virat Kohli",
+        "imgUrl": "https://resources.pulse.icc-cricket.com/players/33992/284/164.png",
+        "details": "https://www.t20worldcup.com/teams/14/india/players/164",
+        "country": "Ind"
+    },
+    {
+        "id": 2,
+        "highScore": 15,
+        "name": "Wanindu Hasaranga",
+        "imgUrl": "https://resources.pulse.icc-cricket.com/players/33992/284/3082.png",
+        "details": "https://www.t20worldcup.com/teams/13/sri-lanka/players/3082",
+        "country": "SL"
     }
   ]
 }
