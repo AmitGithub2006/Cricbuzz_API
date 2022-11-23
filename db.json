@@ -827,37 +827,37 @@
   "statistics": [
     {
       "id": 0,
-      "name": "Virat Kohli",
+      "name": "VK",
       "runs": 848,
       "average": 345
     },
     {
       "id": 1,
-      "name": "MS Dhoni",
+      "name": "MSD",
       "runs": 822,
       "average": 347
     },
     {
       "id": 2,
-      "name": "Hardik Pandya",
+      "name": "Pandya",
       "runs": 444,
       "average": 290
     },
     {
       "id": 3,
-      "name": "Shreyash Iyer",
+      "name": "Iyer",
       "runs": 822,
       "average": 347
     },
     {
       "id": 4,
-      "name": "Rishabh Pant",
+      "name": "Pant",
       "runs": 489,
       "average": 234
     },
     {
       "id": 5,
-      "name": "Ishan Kumar",
+      "name": "Ishan",
       "runs": 556,
       "average": 278
     }
