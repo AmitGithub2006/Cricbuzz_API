@@ -1009,27 +1009,32 @@
     {
       "id": 0,
       "vs": "AUS",
-      "wonPercent" : 57     
+      "wonPercent" : 57,
+      "bg": "#8884d8"   
     },
     {
       "id": 1,
       "vs": "ENG",
-      "wonPercent" : 78     
+      "wonPercent" : 78,
+      "bg": "#83a6ed"    
     },
     {
       "id": 2,
       "vs": "PAK",
-      "wonPercent" : 87     
+      "wonPercent" : 64,
+      "bg": "#8dd1e1"    
     },
     {
       "id": 3,
       "vs": "NZ",
-      "wonPercent" : 41     
+      "wonPercent" : 41,
+      "bg": "#82ca9d"     
     },
     {
       "id": 4,
       "vs": "RSA",
-      "wonPercent" : 59     
+      "wonPercent" : 59,
+      "bg": "#a4de6c"     
     }
   ]
 }
