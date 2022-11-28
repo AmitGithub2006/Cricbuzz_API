@@ -1025,34 +1025,34 @@
   ],
   "radial":  [
     {
-      "id":0,
-      "vs": "AUS",
-      "wonPercent": 62,
-      "bg": "#8884d8"
+      "id": 0,
+      "runsPercent": 150,
+      "color": "#0088FE"
     },
     {
       "id": 1,
-      "vs": "ENG",
-      "wonPercent": 72,
-      "bg": "#83a6ed"
+      "runsPercent": 100,
+      "color": "#00C49F"
     },
     {
       "id": 2,
-      "vs": "PAK",
-      "wonPercent": 87,
-      "bg": "#8dd1e1"
+      "runsPercent": 50,
+      "color": "#FFBB28"
     },
     {
       "id": 3,
-      "vs": "NZ",
-      "wonPercent": 52,
-      "bg": "#82ca9d"
+      "runsPercent": 200,
+      "color": "#8884d8"
     },
     {
       "id": 4,
-      "vs": "RSA",
-      "wonPercent": 47,
-      "bg": "#a4de6c"
+      "runsPercent": 300,
+      "color": "#FF8042"
+    },
+    {
+      "id": 5,
+      "runsPercent": 200,
+      "color": "#82ca9d"
     }
   ]
 }
