@@ -1026,32 +1026,32 @@
   "radial":  [
     {
       "id": 0,
-      "runsPercent": 150,
+      "value": 150,
       "color": "#0088FE"
     },
     {
       "id": 1,
-      "runsPercent": 100,
+      "value": 100,
       "color": "#00C49F"
     },
     {
       "id": 2,
-      "runsPercent": 50,
+      "value": 50,
       "color": "#FFBB28"
     },
     {
       "id": 3,
-      "runsPercent": 200,
+      "value": 200,
       "color": "#8884d8"
     },
     {
       "id": 4,
-      "runsPercent": 300,
+      "value": 300,
       "color": "#FF8042"
     },
     {
       "id": 5,
-      "runsPercent": 200,
+      "value": 200,
       "color": "#82ca9d"
     }
   ]
