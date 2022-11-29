@@ -1026,33 +1026,43 @@
   "radial":  [
     {
       "id": 0,
-      "value": 150,
+      "value": 125,
       "color": "#0088FE"
     },
     {
       "id": 1,
-      "value": 100,
+      "value": 125,
       "color": "#00C49F"
     },
     {
       "id": 2,
-      "value": 50,
+      "value": 125,
       "color": "#FFBB28"
     },
     {
       "id": 3,
-      "value": 200,
-      "color": "#8884d8"
-    },
-    {
-      "id": 4,
-      "value": 300,
+      "value": 125,
       "color": "#FF8042"
     },
     {
+      "id": 4,
+      "value": 125,
+      "color": "#0088FE"
+    },
+    {
       "id": 5,
-      "value": 200,
-      "color": "#82ca9d"
+      "value": 125,
+      "color": "#00C49F"
+    },
+    {
+      "id": 6,
+      "value": 125,
+      "color": "#FFBB28"
+    },
+    {
+      "id": 7,
+      "value": 125,
+      "color": "#FF8042"
     }
   ]
 }
