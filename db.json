@@ -1068,7 +1068,7 @@
   "datas": [
     {
       "id": 0,
-      "date": "02/02/2022",
+      "date": "02-12-2022",
       "name": "Palm Harbor",
       "location": "15205 North Kierland Blvd. Suite 100, Newyork ",
       "price": 3700,
@@ -1080,7 +1080,7 @@
     },
     {
       "id": 1,
-      "date": "01/01/2002",
+      "date": "01-11-2022",
       "name": "The Old School House",
       "location": "15205 854 Avocado Ave,Maryland",
       "price": 4500,
@@ -1092,7 +1092,7 @@
     },
     {
       "id": 2,
-      "date": "04/02/2003",
+      "date": "04-02-2023",
       "name": "The Bungalow",
       "location": "854 Avocado Ave,Georgia ",
       "price": 9000,
@@ -1104,9 +1104,9 @@
     },
     {
       "id": 3,
-      "date": "07/03/2024",
+      "date": "07-12-2022",
       "name": "Wisteria Cottages",
-      "location": "68---1330 Mauna Lani Dr. Bldg 1---A Kohala Coast,Maine",
+      "location": "68---1330 Mauna Lani Dr. Bldg 1---A Kohala Coast,Georgia",
       "price": 4000,
       "beds": 4,
       "bathrooms": 5,
@@ -1116,9 +1116,9 @@
     },
     {
       "id": 4,
-      "date": "09/22/2022",
+      "date": "09-12-2022",
       "name": "Newland Cottage",
-      "location": "2829 Ala Kalanikaumaka, Kukui'ula Village,Texas",
+      "location": "2829 Ala Kalanikaumaka, Kukui'ula Village,Maryland",
       "price": 3000,
       "beds": 3,
       "bathrooms": 3,
@@ -1128,7 +1128,7 @@
     },
     {
       "id": 5,
-      "date": "08/22/2022",
+      "date": "28-12-2022",
       "name": "Elmsgate",
       "location": "Waikoloa Beach Resort, Unit D---8 250 Waikoloa Beach,Newyork",
       "price": 1700,
@@ -1140,9 +1140,9 @@
     },
     {
       "id": 6,
-      "date": "08/21/2022",
+      "date": "15-12-2022",
       "name": "Bulverton House",
-      "location": "2F, 4035-1 Ikenobecho, Tsuzuki-ku, Yokohama 224-0053,Texas",
+      "location": "2F, 4035-1 Ikenobecho, Tsuzuki-ku, Yokohama 224-0053,Georgia",
       "price": 2000,
       "beds": 2,
       "bathrooms": 4,
@@ -1152,9 +1152,9 @@
     },
     {
       "id": 7,
-      "date": "03/31/2022",
+      "date": "31-11-2022",
       "name": "Lealands",
-      "location": "4F, 52 Nishiiru Shincho, Shijyo-dori Kawaramachi,North Dakota",
+      "location": "4F, 52 Nishiiru Shincho, Shijyo-dori Kawaramachi,Newyork",
       "price": 2100,
       "beds": 4,
       "bathrooms": 3,
@@ -1164,9 +1164,9 @@
     },
     {
       "id": 8,
-      "date": "01/16/2022",
+      "date": "28-12-2022",
       "name": "Rosemary House",
-      "location": "8F, 5-24-2, Sendagaya, Shibuya-ku,Iowa",
+      "location": "8F, 5-24-2, Sendagaya, Shibuya-ku,Iowa,Georgia",
       "price": 5000,
       "beds": 4,
       "bathrooms": 2,
