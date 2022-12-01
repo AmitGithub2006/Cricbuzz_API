@@ -1174,5 +1174,127 @@
       "size": 3000,
       "img": "https://i.pinimg.com/564x/2d/02/f6/2d02f65d1f63af62d815faae84b535e4.jpg"
     }
+  ],
+  "oyo": [
+    {
+      "id": 0,
+      "date": "11/12/2022",
+      "name": "Palm Harbor",
+      "location": "2699 Green Valley, Highland Lake, FL",
+      "price": 3700,
+      "beds": 2,
+      "bathrooms": 2,
+      "type": "House",
+      "area": 35,
+      "img": "https://plus.unsplash.com/premium_photo-1661883964999-c1bcb57a7357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aG91c2UlMjBleHRlcmlvcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 1,
+      "date": "22/01/2023",
+      "name": "Beverly Springfield",
+      "location": "2821 Lake Sevilla, Palm Harbor, TX",
+      "price": 4500,
+      "beds": 4,
+      "bathrooms": 2,
+      "type": "Commercial",
+      "area": 80,
+      "img": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG91c2UlMjBleHRlcmlvcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "date": "13/02/2022",
+      "name": "Faulkner Ave",
+      "location": "909 Woodland St. Michigan, IN",
+      "price": 9000,
+      "beds": 1,
+      "bathrooms": 1,
+      "type": "Industrial",
+      "area": 67.5,
+      "img": "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aG91c2UlMjBleHRlcmlvcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "date": "24/03/2023",
+      "name": "Avenue Realty",
+      "location": " 13th Street. New York, NY",
+      "price": 4000,
+      "beds": 4,
+      "bathrooms": 5,
+      "type": "Land",
+      "area": 50,
+      "img": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8aG91c2UlMjBleHRlcmlvcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "date": "09/12/2022",
+      "name": "Kamakura Corporation",
+      "location": "15205 North Kierland Blvd. Suite 100. Scottsdale",
+      "price": 3000,
+      "beds": 3,
+      "bathrooms": 3,
+      "type": "Office",
+      "area": 78,
+      "img": "https://images.unsplash.com/photo-1598228723793-52759bba239c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdXNlJTIwZXh0ZXJpb3J8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "date": "08/01/2023",
+      "name": "Rose Cottage",
+      "location": " University House. 3201 s. university dr fort worth, tx",
+      "price": 1700,
+      "beds": 8,
+      "bathrooms": 3,
+      "type": "House",
+      "area": 65,
+      "img": "https://images.unsplash.com/photo-1606402179428-a57976d71fa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGhvdXNlJTIwZXh0ZXJpb3J8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "date": "08/12/2022",
+      "name": "The Old Rectory",
+      "location": "132, My Street, Kingston, Washington DC",
+      "price": 2000,
+      "beds": 2,
+      "bathrooms": 4,
+      "type": "Commercial",
+      "area": 44,
+      "img": "https://images.unsplash.com/photo-1613977257365-aaae5a9817ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGhvdXNlJTIwZXh0ZXJpb3J8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 7,
+      "date": "23/04/2023",
+      "name": "Hawaiian Electric Industries",
+      "location": "1234 NW Bobcat Lane, St. Robert, MO",
+      "price": 2100,
+      "beds": 4,
+      "bathrooms": 3,
+      "type": "Industrial",
+      "area": 37,
+      "img": "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8b2ZmaWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 8,
+      "date": "15/05/2022",
+      "name": "Bridgelands",
+      "location": "477 S ASSOCIATED RD ... US",
+      "price": 5000,
+      "beds": 4,
+      "bathrooms": 2,
+      "type": "Land",
+      "area": 56,
+      "img": "https://images.unsplash.com/photo-1523552550763-26d16de8f011?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8b2ZmaWNlJTIwZXh0ZXJpb3J8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 9,
+      "date": "06/05/2023",
+      "name": "Atlas Van Lines",
+      "location": "CHRIS NISWANDEE SMALLSYS INC 795 E DRAGRAM TUCSON AZ",
+      "price": 5000,
+      "beds": 4,
+      "bathrooms": 2,
+      "type": "Office",
+      "area": 95,
+      "img": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fG9mZmljZSUyMGV4dGVyaW9yfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }
   ]
 }
